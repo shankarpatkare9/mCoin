@@ -1,0 +1,12 @@
+1. Add MCOIN blockchain to metamask - http://143.110.245.41:8545
+
+2. Open Remix https://remix.ethereum.org/
+
+3. Create a new file mnc20.sol
+
+4. copy contract code from https://github.com/civa/freezeable-erc20/blob/main/erc20.sol and change parameter on line 100
+
+5. Change environment to injected web
+
+6 deploy contract
+
